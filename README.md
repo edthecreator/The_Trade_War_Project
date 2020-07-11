@@ -5,4 +5,5 @@ The Trade War Project is a project that utilizes API's supplied by TD Ameritrade
 Key Features included thusfar:
 
 GSON 
+
 Retrofit2 
